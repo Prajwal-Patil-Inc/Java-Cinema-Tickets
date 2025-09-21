@@ -19,7 +19,7 @@ This repository contains a solution for a cinema ticket purchase service. The `T
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Prajwal-Patil-Inc/Java-Dev-Cinema-Ticket.git
+   git clone https://github.com/Prajwal-Patil-Inc/Java-Dev-Cinema-Tickets.git
 
 2. **Navigate to the project directory**:
    ```bash
