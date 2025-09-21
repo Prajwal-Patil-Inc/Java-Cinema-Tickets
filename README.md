@@ -49,5 +49,5 @@ This repository contains a solution for a cinema ticket purchase service. The `T
 
 3. **Test cases are provided for various scenarios, such as:**
 - Valid purchases with different combinations of adult, child, and infant tickets
-- Invalid purchases, such as exceeding the ticket limit, missing adult tickets, invalid account IDs, zero or negative ticket counts, and too many infants per adult4
+- Invalid purchases, such as exceeding the ticket limit, missing adult tickets, invalid account IDs, zero or negative ticket counts, and too many infants per adult
 
